@@ -90,7 +90,7 @@ Screenshots
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/parlour-admin-dashboard.git
+git clone https://github.com/MHasan1234/Parlour-Dashboard.git
 cd parlour-admin-dashboard
 
 2. Start the Backend
