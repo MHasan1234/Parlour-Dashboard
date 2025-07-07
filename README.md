@@ -85,20 +85,4 @@ Screenshots
 ![image](https://github.com/user-attachments/assets/653018e7-d384-4cd8-9440-4b570a34365a)
 ![image](https://github.com/user-attachments/assets/006385fa-725d-4ca8-884b-35c0e4c92635)
 
-## 🧪 How to Run
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/MHasan1234/Parlour-Dashboard.git
-cd parlour-admin-dashboard
-
-2. Start the Backend
-cd backend-parlour-api
-npm install
-npm run dev
-
-3. Start the Frontend
-cd frontend-parlour
-npm install
-npm run dev
